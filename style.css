@@ -1,0 +1,53 @@
+
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+
+#container{
+    display: inline-block;
+    min-width: 950px; 
+    max-width: 1200px;
+    background-color: silver;
+    margin: auto;
+}
+#top-nav {
+    min-height: 150px;
+    width: auto;
+    background-color: green;
+}
+
+#side-nav {
+    display: inline-block;
+    min-height: 300px;
+    width: 200px;
+    background-color: blue;
+    
+}
+#main {
+    min-height: 450px;
+    min-width: 776px;
+    width: auto;
+    vertical-align: top;
+    display: inline-block;
+    background-color: red;
+}
+.sub-content {
+    display: inline-block;
+    height: 200px;
+    width: 215px;
+    background-color: yellow;
+    text-align: center;
+}
+#advertisement {
+    height: 120px;
+    width: px;
+    background-color: purple;
+    margin-left: 70px;
+    margin-right: 50px;
+    margin-top: 25px;
+    text-align: center;
+    
+}
+
